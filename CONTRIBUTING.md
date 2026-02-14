@@ -1,27 +1,63 @@
 # Contributing to System Of All Story
 
-We welcome structured contributions aligned with editorial standards.
+Thank you for contributing to a live editorial platform.
 
-## Contribution Areas
+---
 
-- News reporting
+## Eligibility
+
+Contributors may submit:
+
+- News articles
 - Crypto analysis
-- Technical documentation
-- Research contributions
-- Translation support
+- Governance commentary
+- Research-based reporting
+- Technical insights
 
-## Requirements
+All submissions must be evidence-based and professionally structured.
 
-- Verifiable sources
-- Neutral tone
-- Structured formatting
-- No defamatory or unverified claims
+---
 
-## Review Process
+## Submission Requirements
+
+- Verifiable public sources
+- Neutral and factual tone
+- Clear distinction between opinion and reporting
+- Proper citation format
+- No defamatory or unverified allegations
+
+---
+
+## Review Workflow
 
 1. Submission via pull request
 2. Editorial review
 3. Source verification
-4. Approval and merge
+4. Compliance review (if crypto-related)
+5. Approval and publication
 
-All contributions must comply with EDITORIAL_POLICY.md.
+---
+
+## Conflict of Interest
+
+Contributors must disclose:
+
+- Financial interests
+- Token holdings (if relevant)
+- Sponsored relationships
+
+Undisclosed conflicts may result in removal.
+
+---
+
+## Prohibited Content
+
+- Hate speech
+- Harassment
+- Unverified medical claims
+- Investment guarantees
+- Classified or fabricated claims
+
+---
+
+All contributions are subject to editorial discretion.
