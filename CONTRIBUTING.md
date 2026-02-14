@@ -2,7 +2,7 @@
 
 Thank you for contributing to a live editorial platform.
 
----
+
 
 ## Eligibility
 
@@ -16,7 +16,7 @@ Contributors may submit:
 
 All submissions must be evidence-based and professionally structured.
 
----
+
 
 ## Submission Requirements
 
@@ -26,7 +26,7 @@ All submissions must be evidence-based and professionally structured.
 - Proper citation format
 - No defamatory or unverified allegations
 
----
+
 
 ## Review Workflow
 
@@ -36,7 +36,7 @@ All submissions must be evidence-based and professionally structured.
 4. Compliance review (if crypto-related)
 5. Approval and publication
 
----
+
 
 ## Conflict of Interest
 
@@ -48,7 +48,7 @@ Contributors must disclose:
 
 Undisclosed conflicts may result in removal.
 
----
+
 
 ## Prohibited Content
 
@@ -58,6 +58,6 @@ Undisclosed conflicts may result in removal.
 - Investment guarantees
 - Classified or fabricated claims
 
----
+
 
 All contributions are subject to editorial discretion.
