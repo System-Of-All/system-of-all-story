@@ -5,103 +5,83 @@ Stories We Write.
 Official Website:
 https://systemofallstory.com
 
-System Of All Story is a global digital news and analysis portal delivering structured reporting on world affairs, cryptocurrency, governance, technology, and neurological health awareness.
+System Of All Story is a live global digital news and analysis platform delivering structured reporting across world affairs, cryptocurrency, governance, technology, financial systems, and neurological health awareness.
 
----
+
 
 ## Mission
 
-To provide structured, responsible, and high-quality information within a modern digital ecosystem while integrating transparent crypto infrastructure and editorial governance standards.
+To provide structured, responsible, and high-quality information within a transparent editorial and technological framework.
 
 ---
 
-## Core Categories
+## Core Coverage Areas
 
 - World News
 - Cryptocurrency & Blockchain
-- Technology & Digital Systems
-- Governance & Policy
+- Technology & Digital Infrastructure
+- Governance & Public Policy
 - Financial Systems
-- Health & Neurological Awareness
-- Havana Syndrome
+- Health & Neurological Research
+- Havana Syndrome (Dedicated Category)
 
 ---
 
 ## Havana Syndrome Category
 
-System Of All Story maintains a dedicated informational category covering:
+This category provides informational coverage of neurological health incidents commonly referred to as "Havana Syndrome."
 
-- Legislative developments (including the Havana Act of 2021)
-- Institutional investigations
-- Public policy updates
-- Research findings
-- Public awareness initiatives
+Coverage includes:
+- Legislative updates (including the Havana Act of 2021)
+- Institutional reviews
+- Public research findings
+- Policy discussions
+- Awareness initiatives
 
-This category operates strictly as an informational and editorial resource.
+All reporting is based on publicly available sources.
 
----
-
-## Development Roadmap
-
-### Phase I – Editorial Infrastructure
-- CMS architecture
-- Contributor onboarding
-- Category standardization
-- SEO framework
-
-### Phase II – Crypto Advertising System
-- Banner modules
-- Sponsored content engine
-- Transparent advertising disclosures
-
-### Phase III – Subscription Model
-- Tiered editorial plans
-- Premium research reports
-- Contributor monetization
-
-### Phase IV – Civic Information Integration
-- Verified public resource links
-- Informational civic portals
-- Awareness systems
+System Of All Story does not claim governmental authority or classified access.
 
 ---
 
 ## Monetization Model
 
-- Crypto advertising
-- Sponsored articles
-- Subscription tiers
+- Crypto advertising placements
+- Sponsored editorial content (clearly labeled)
+- Subscription-based premium content
 - Strategic ecosystem partnerships
 
 ---
-├── frontend/
-├── backend/
-├── editorial/
-├── categories/
-├── advertising/
-├── subscription/
-├── governance/
-├── legal/
-├── documentation/
-├── README.md
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-├── SECURITY.md
-├── EDITORIAL_POLICY.md
-└── LICENSE
 
+## Editorial Integrity
 
+All content follows structured review standards defined in EDITORIAL_POLICY.md.
+
+Sponsored content is clearly disclosed.
 
 ---
 
 ## Legal Position
 
-System Of All Story is an independent media platform.  
-It is not affiliated with any government agency.  
+System Of All Story is an independent media platform.
+
+It is not affiliated with:
+- Any intelligence agency
+- Any government authority
+- Any classified program
+
 All civic references are informational only.
 
 ---
 
-© 2026 System Of All
-## Repository Structure
+## Repository Governance
 
+This repository follows documented:
+- Editorial governance
+- Security procedures
+- Responsible disclosure standards
+- Transparent update tracking
+
+---
+
+© 2026 System Of All
