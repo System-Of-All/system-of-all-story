@@ -1,10 +1,43 @@
 # Code of Conduct
 
-All contributors must maintain:
+System Of All Story maintains professional editorial and development standards.
 
-- Professional behavior
-- Respectful communication
+
+
+## Expected Behavior
+
+- Professional communication
 - Evidence-based discussion
-- No harassment or misinformation
+- Respectful collaboration
+- Transparency in disclosures
+- Constructive peer review
 
-Violations may result in removal of contribution privileges.
+
+
+## Prohibited Behavior
+
+- Harassment
+- Defamation
+- Misinformation
+- Market manipulation attempts
+- Unethical advertising behavior
+
+
+
+## Enforcement
+
+Violations may result in:
+
+- Content rejection
+- Removal of contribution privileges
+- Permanent repository ban
+
+Enforcement decisions are at editorial discretion.
+
+
+
+This Code applies to:
+- Contributors
+- Developers
+- Editorial participants
+- Advertising partners interacting with the repository
